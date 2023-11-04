@@ -1,2 +1,3 @@
-#http://hntk03-guiderent.netlify.app/*	https://guiderent.hntk03.com/:splat 301!
-#https://hntk03-guiderent.netlify.app/*	https://guiderent.hntk03.com/:splat 301!
+http://guiderent.hntk03.com/*	https://guiderent.hntk03.com/:splat 301!
+http://hntk03-guiderent.netlify.app/*	https://guiderent.hntk03.com/:splat 301!
+https://hntk03-guiderent.netlify.app/*	https://guiderent.hntk03.com/:splat 301!
